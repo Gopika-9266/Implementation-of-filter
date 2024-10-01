@@ -80,7 +80,7 @@ plt.imshow(gaussian_blur)
 plt.title(' Gaussian Blurring Filtered')
 ```
 
-iv)Using Median Filter
+iv) Using Median Filter
 ```
 import cv2
 import numpy as np
